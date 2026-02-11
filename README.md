@@ -52,7 +52,11 @@ Right-click → Run As → Java Application
 
 ## Database Tables Used
 CITIZEN_TBL
+<img width="1383" height="407" alt="Screenshot 2026-02-11 231358" src="https://github.com/user-attachments/assets/1e29bf79-1fd5-45d6-bf7a-47b48ab699a6" />
+
 WASTE_SERVICE_TBL
+<img width="1891" height="390" alt="Screenshot 2026-02-11 231507" src="https://github.com/user-attachments/assets/8c67b3f9-93e9-4653-9162-ad1d237c901e" />
+
 SERVICE_ROW_SEQ
 
 ## Output:
